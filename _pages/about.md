@@ -27,8 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Pegah Salehi, a PhD candidate in Artificial Intelligence at Simula Metropolitan Center for Digital Engineering, Oslo, Norway. With over 7 years of experience in computer vision, generative AI, and medical image analysis, I specialize in designing intelligent, interactive systems that blend deep learning with human-centered design.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My recent research focuses on building responsive AI-driven child avatars for training professionals in investigative interviews with maltreated children. This interdisciplinary work spans computer vision, natural language processing, speech technologies, and 3D animation — using tools like Unreal Engine, NVIDIA Audio2Face, Whisper, and GANs.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In parallel with my PhD, I have collaborated with startups such as Truviz Inc. (US) as a freelance computer vision engineer, contributing to avatar-based LLM interfaces. I have authored over 15 peer-reviewed articles published in venues such as IEEE Access, ACM, and Scientific Reports.
+
+I am passionate about using AI to improve real-world interactions, particularly in education, health, and communication. I approach problems with curiosity, precision, and persistence — and am always eager to learn and innovate.
+
+📍 Based in Oslo, Norway  
+📧 [pghsalehi@gmail.com](mailto:pghsalehi@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pghsalehi/) • [Google Scholar](https://scholar.google.com/citations?user=0Y4lkuwAAAAJ&hl=en)
+
