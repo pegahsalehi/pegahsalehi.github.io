@@ -6,9 +6,6 @@ linkedin_username: pghsalehi
 
 scholar_userid: 0Y4lkuwAAAAJ
 
-rss_icon: true # keep if you want RSS icon
+#rss_icon: true # keep if you want RSS icon
 
-custom_social:
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+
