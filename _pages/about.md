@@ -9,7 +9,7 @@ profile:
   image: my_pic.jpg
   image_circular: false # crops the image to make it circular
 
-
+social: true 
 ---
 
 <div class="justify-text">
