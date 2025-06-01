@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-wwWrite your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m **Pegah Salehi**, an AI engineer and PhD researcher specializing in **computer vision**, **generative AI**, and **medical image analysis**. With over **seven years of academic and industry experience**, I design intelligent systems that blend cutting-edge machine learning with practical real-world applications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I’m completing my PhD at **Simula Metropolitan Center for Digital Engineering (SimulaMet)** in Oslo, where my research focuses on creating emotionally expressive **AI-driven avatars** for training professionals in sensitive, high-stakes environments. My work spans **3D avatar generation**, **speech processing**, **dialogue modeling**, and **user interaction**—bridging disciplines to push the boundaries of human–AI interaction.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’ve collaborated with startups, published across top journals (IEEE, ACM, Scientific Reports), and built systems that are as technically robust as they are ethically mindful.
+
+Feel free to explore my **projects**, **publications**, and **professional experience**. I’m always open to collaboration and curious conversations—get in touch!
