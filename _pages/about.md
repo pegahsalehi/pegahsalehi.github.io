@@ -16,7 +16,7 @@ social: true
 
   <p><strong>Pegah Salehi</strong> is an AI engineer and PhD researcher specializing in <strong>computer vision</strong>, <strong>generative AI</strong>, and <strong>medical image analysis</strong>. With over <strong>seven years of academic and industry experience</strong>, she designs intelligent systems that blend cutting-edge machine learning with practical real-world applications.</p>
 
-  <p>She is currently completing her PhD at the SimulaMet [subreddit](https://simulamet.no) in Oslo, where her research focuses on creating emotionally expressive <strong>AI-driven avatars</strong> for training professionals in sensitive, high-stakes environments. Her work spans <strong>3D avatar generation</strong>, <strong>speech processing</strong>, <strong>dialogue modeling</strong>, and <strong>user interaction</strong>—bridging disciplines to push the boundaries of human–AI interaction.</p>
+  <p>She is currently completing her PhD at the <a href="https://simulamet.no" target="_blank">SimulaMet</a> in Oslo, where her research focuses on creating emotionally expressive <strong>AI-driven avatars</strong> for training professionals in sensitive, high-stakes environments. Her work spans <strong>3D avatar generation</strong>, <strong>speech processing</strong>, <strong>dialogue modeling</strong>, and <strong>user interaction</strong>—bridging disciplines to push the boundaries of human–AI interaction.</p>
 
   <p>Pegah has collaborated with startups, published across top journals (IEEE, ACM, Scientific Reports), and built systems that are as technically robust as they are ethically mindful.</p>
 
