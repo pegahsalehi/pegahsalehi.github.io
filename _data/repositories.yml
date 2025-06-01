@@ -5,7 +5,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - Whisper-AFE-TalkingHeadsGen
-  - Stain-to-Stain-Translation
-  - VR_vs_2D
-  - Machine-Learning-Systems-in-Industry
+  - pegahsalehi/Whisper-AFE-TalkingHeadsGen
+  - pegahsalehi/Stain-to-Stain-Translation
+  - pegahsalehi/VR_vs_2D
+  - pegahsalehi/Machine-Learning-Systems-in-Industry
