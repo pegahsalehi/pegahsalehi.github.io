@@ -1,11 +1,5 @@
-github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
 
 github_repos:
   - pegahsalehi/Whisper-AFE-TalkingHeadsGen
   - pegahsalehi/Stain-to-Stain-Translation
-  - pegahsalehi/VR_vs_2D
   - pegahsalehi/Machine-Learning-Systems-in-Industry
