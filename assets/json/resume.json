@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Pegah Salehi",
-    "label": "AI Engineer",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "pghsalehi@gmail.com",
-    "phone": "(47) 920-97694",
-    "url": "https://pegahsalehi.github.io/",
-    "summary": "",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -157,12 +157,7 @@
     },
     {
       "language": "English",
-      "fluency": "Proficient",
-      "icon": ""
-    }
-        {
-      "language": "Norwegian",
-      "fluency": "Beginner",
+      "fluency": "Fluent",
       "icon": ""
     }
   ],
