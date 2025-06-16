@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: photo.jpeg
+  image: pegah.png
   image_circular: false # crops the image to make it circular
 
 social: true 
